@@ -34,7 +34,7 @@
   Include context and reasoning if applicable. Reference any related issues, discussions, or links
 -->
 
-## Related Tickets & Documents
+## Related Issues & Documents
 
 <!--
 For pull requests that relate or close an issue, please include them
