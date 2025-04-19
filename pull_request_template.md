@@ -29,6 +29,10 @@
 - [ ] Documentation
 
 ## Description
+<!--
+  This section should talk about what the code in the PR does.
+  Include context and reasoning if applicable. Reference any related issues, discussions, or links
+-->
 
 ## Related Tickets & Documents
 
