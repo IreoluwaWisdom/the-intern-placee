@@ -26,11 +26,15 @@
 - [ ] Feature
 - [ ] Bug Fix
 - [ ] Optimization
-- [ ] Documentation Update
+- [ ] Documentation
 
 ## Description
+<!--
+  This section should talk about what the code in the PR does.
+  Include context and reasoning if applicable. Reference any related issues, discussions, or links
+-->
 
-## Related Tickets & Documents
+## Related Issues & Documents
 
 <!--
 For pull requests that relate or close an issue, please include them
@@ -54,16 +58,7 @@ images for UI changes._
 _If your PR includes UI changes, please utilize this checklist:_
 - [ ] Semantic HTML implemented?
 - [ ] Keyboard operability supported?
-- [ ] Checked with [axe DevTools](https://www.deque.com/axe/) and addressed `Critical` and `Serious` issues?
 - [ ] Color contrast tested?
 
-
-## Added/updated tests?
-_We encourage you to keep the code coverage percentage at 80% and above._
-
-- [ ] Yes
-- [ ] No, and this is why: _please replace this line with details on why tests
-      have not been included_
-- [ ] I need help with writing tests
 
 ## [optional] Are there any post deployment tasks we need to perform?
